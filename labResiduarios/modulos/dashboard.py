@@ -16,7 +16,7 @@ def card_modulo(titulo, descricao, status="Ativo"):
 
 def mostrar_dashboard():
 
-    st.title("🧪 LabResíduos")
+    st.title("🧪 Laboratório virtual de Residuarios")
 
     st.subheader("Sistema Educacional para Ensino de Análises Ambientais")
 
